@@ -3,3 +3,6 @@
 
 
 [LAB-02](https://github.com/2203A51661/AIML_BACH-14/blob/main/LAB02.ipynb)
+
+
+[LAB-03](https://github.com/2203A51661/AIML_BACH-14/blob/main/Lab03.ipynb)
