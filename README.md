@@ -19,3 +19,6 @@
 
 
 [LAB-07](https://github.com/2203A51661/AIML_BACH-14/blob/main/Lab07.ipynb)
+
+
+[LAB-08](https://github.com/2203A51661/AIML_BACH-14/blob/main/Lab08.ipynb)
